@@ -1,2 +1,6 @@
 git day 2 concepts 
 working area, stagging area,commited area
+
+========================================================
+git push origin master
+git pull origin master
